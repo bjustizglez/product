@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of BJustiz. See LICENSE file for full copyright and licensing details.*-
+# Part of Xookweb. See LICENSE file for full copyright and licensing details.*-
 
 {
     'name': 'Sale Prices - Manufacturing',
