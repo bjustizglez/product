@@ -13,6 +13,7 @@
     'currency': 'EUR',
     'price': 15.0,
     'depends': ['mrp'],
+    'images':['static/description/banner.png'],
     'data': [
         'views/product_views.xml',
     ],
